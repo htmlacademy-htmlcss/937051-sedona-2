@@ -1,8 +1,8 @@
 # Личный проект «Седона»
 
 * Студент: [Dmitry Prokopenkov](https://up.htmlacademy.ru/htmlcss-individual/2/user/937051).
-* Наставник: `Неизвестно`.
-
+* Наставник: [Владислав Доровлев](https://htmlacademy.ru/profile/dorovlev).
+* Сайт: [Мой проект Седона](https://dmi-p.github.io/937051-sedona-2/).
 ---
 
 _Не удаляйте и не обращайте внимание на файлы:_<br>
